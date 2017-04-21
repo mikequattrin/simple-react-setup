@@ -1,0 +1,14 @@
+{
+  "name": "simple-react-setup",
+  "version": "1.0.0",
+  "description": "### Simple Setup",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel --presets babel-preset-react src --out-file bundle.js --watch",
+    "live-server": "live-server --port=3004"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
