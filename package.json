@@ -8,7 +8,7 @@
     "live-server": "live-server --port=3004"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mike Quattrin",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.24.1",
